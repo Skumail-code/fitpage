@@ -25,7 +25,7 @@ class _DetailScreenState extends State<DetailScreen> {
     } else if (color == 'red') {
       return Colors.red;
     } else {
-      return Colors.black; 
+      return Colors.black;
     }
   }
 
