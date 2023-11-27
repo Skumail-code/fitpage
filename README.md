@@ -1,14 +1,14 @@
 Stock Scan Mobile Replica Documentation
 
-Overview
+Overview:
 This mobile application is a replica of the web application available at http://coding-assignment.bombayrunning.com/. 
 It provides a list view of stock market scans, each potentially containing multiple sub-criteria.
 
-Architecture
+Architecture:
 The application is built using the Flutter framework. 
 The codebase follows a modular structure, separating concerns into different files and directories for improved maintainability.
 
-Components
+Components:
 1. main.dart
 Description: The entry point of the application.
 Responsibilities:
@@ -36,21 +36,22 @@ Responsibilities:
 Fetches and displays variable values for the selected stock scan.
 Highlights variables explicitly for readability.
 
-Code Structure
+Code Structure:
 The codebase is organized into modular files and directories for improved maintainability.
 
-Dependencies
+Dependencies:
 http for making HTTP requests to fetch data.
 test for testing the application.
 
-Testing
+Testing:
 Two test files are included to ensure code reliability:
 
 main_test.dart: Tests related to the main application entry point.
 DetailScreen_test.dart: Tests for the detailed information screen.
 To run the tests, use the command flutter test.
 
-How to Run
+How to Run:
+
 To run the application locally:
 
 Clone the repository.
