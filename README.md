@@ -60,6 +60,7 @@ Ensure Flutter dependencies are installed by running flutter pub get.
 Run the application using the command flutter run.
 
 Variations from the Web Application:
+
 Variable Incorporation: Variables are explicitly highlighted for improved readability.
 
 Known Issues:
